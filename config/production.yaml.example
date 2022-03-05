@@ -1,5 +1,5 @@
 listen:
-  hostname: 'localhost'
+  hostname: '192.168.1.4'
   port: 9000
 
 # Correspond to your reverse proxy server_name/listen configuration (i.e., your public PeerTube instance URL)
